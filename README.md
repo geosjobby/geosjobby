@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/html-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-  <imc src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">
+  <imc src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=%23F7DF1E">
   
 
 
