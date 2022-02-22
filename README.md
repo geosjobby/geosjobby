@@ -1,3 +1,3 @@
-### About Me
+### About Me 📃
 
-**Hey im Geosjobbydo, Aka James O'Brien!
+**Hey im Geosjobbydo, Aka James O'Brien!**
