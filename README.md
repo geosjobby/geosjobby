@@ -4,7 +4,7 @@
 <p style="text-align:center;"><img src="https://github.com/geosjobby/geosjobby/blob/main/Pictures/geosjobbydo.png?raw=true?" alt="Logo" style="height: 400px; width:490px;"></p>
 
 ## Currently Learning
-<p align='center'>
+<p align='left'>
     <img src="https://img.shields.io/badge/css-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white">
   <br>
