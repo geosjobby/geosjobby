@@ -18,6 +18,11 @@
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
      
 ## Organisation 
+*Working at Astrocore! Click on image to go to site. Discord link below⬇*
+<p align='left'>
+<a href="dsc.gg/nd"><img src=""><a/>
+<p/> 
+ 
 
    
  
