@@ -26,6 +26,13 @@
  *Working on my site currently! you can view it by clicking the image Down-below!⬇*
  <p align='left'>
 <a href="https://geosjobby.xyz"><img src="https://github.com/geosjobby/geosjobby/blob/main/Pictures/SiteBackround.png?raw=true" alt="Logo" style="height: 400px; width:490px;"><p/><a>
+    
+## My Github Stats
+   <p align='center'>
+  <img src="https://github-readme-stats.vercel.app/api?username=geosjobby&show_icons=true&count_private=true&theme=dark" width="350">
+</p>
+
+
 
  
 
