@@ -10,6 +10,7 @@
   <br>
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
   <br>
+   <p align ='center'>
   <imc src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">
   
 
