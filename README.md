@@ -29,7 +29,7 @@
     
 ## My Github Stats
    <p align='left'>
-  <img src="https://github-readme-stats.vercel.app/api?username=geosjobby&show_icons=true&count_private=true&theme=prussian" width="350">
+  <img src="https://github-readme-stats.vercel.app/api?username=geosjobby&show_icons=true&count_private=true&theme=prussian" alt="Logo" style="height: 400px; width:490px;">
 </p>
 
 
