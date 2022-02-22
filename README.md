@@ -21,7 +21,7 @@
 *Working at Astrocore! Click on image to go to site. Discord link on site!*
 <p align='left'>
 <a href="Astrocore.net"><img src="https://github.com/geosjobby/geosjobby/blob/main/Pictures/Astrocore.png?raw=true" alt="Logo" style="height: 400px; width:490px;"><p/>
-
+<br>
 ## My Website
  *Working on my site currently! you can view it by clicking the image Downbelow!
 
