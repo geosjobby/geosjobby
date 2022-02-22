@@ -23,7 +23,9 @@
 <a href="Astrocore.net"><img src="https://github.com/geosjobby/geosjobby/blob/main/Pictures/Astrocore.png?raw=true" alt="Logo" style="height: 400px; width:490px;"><p/><a>
     
 ## My Website
- *Working on my site currently! you can view it by clicking the
+ *Working on my site currently! you can view it by clicking the image Down-below!⬇*
+ <p align='left'>
+<a href="Astrocore.net"><img src="" alt="Logo" style="height: 400px; width:490px;"><p/><a>
 
  
 
