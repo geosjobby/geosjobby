@@ -20,12 +20,12 @@
 ## Organisation 
 *Working at Astrocore! Click on image to go to site. Discord link on site!*
 <p align='left'>
-<a href="https://Astrocore.net"><img src="https://github.com/geosjobby/geosjobby/blob/main/Pictures/Astrocore.png?raw=true" alt="Logo" style="height: 400px; width:490px;"><p/><a>
+<a target="_blank" href="https://Astrocore.net"><img src="https://github.com/geosjobby/geosjobby/blob/main/Pictures/Astrocore.png?raw=true" alt="Logo" style="height: 400px; width:490px;"><p/><a>
     
 ## My Website
  *Working on my site currently! you can view it by clicking the image Down-below!⬇*
  <p align='left'>
-<a href="https://geosjobby.xyz"><img src="https://github.com/geosjobby/geosjobby/blob/main/Pictures/SiteBackround.png?raw=true" alt="Logo" style="height: 400px; width:490px;"><p/><a>
+<a target="_blank" href="https://geosjobby.xyz"><img src="https://github.com/geosjobby/geosjobby/blob/main/Pictures/SiteBackround.png?raw=true" alt="Logo" style="height: 400px; width:490px;"><p/><a>
     
 ## My Github Stats
    <p align='left'>
