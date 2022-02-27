@@ -1,4 +1,4 @@
-![Website](https://img.shields.io/website?color=light%20green&down_color=red&down_message=Maintenance&label=Website&style=plastic&up_color=Light%20green&up_message=Online&url=https%3A%2F%2Fgeosjobby.xyz) <img src="https://camo.githubusercontent.com/a18b4bf3a695fb7a3c6eff91238fe45862849a8b38ffe492764d33fc73036de2/68747470733a2f2f696f6e69636162697a61752e6769746875622e696f2f6261646765732f70617970616c2e737667" alt="paypal.me/geosjobby" data-canonical-src="https://ionicabizau.github.io/badges/paypal.svg" style="max-width: 100%;">
+![Website](https://img.shields.io/website?color=light%20green&down_color=red&down_message=Maintenance&label=Website&style=plastic&up_color=Light%20green&up_message=Online&url=https%3A%2F%2Fgeosjobby.xyz) [![paypal.me/geosjobbydo](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/geosjobbydo)
 ### About Me 📃
 
 *Hey im Geosjobbydo, AKA James O'Brien!. Currently Learning Web dev and Software dev!*
