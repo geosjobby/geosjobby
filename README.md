@@ -1,3 +1,4 @@
+![Website](https://img.shields.io/website?color=light%20green&down_color=red&down_message=Maintenance&label=Website&style=plastic&up_color=Light%20green&up_message=Online&url=https%3A%2F%2Fgeosjobby.xyz)
 ### About Me 📃
 
 *Hey im Geosjobbydo, AKA James O'Brien!. Currently Learning Web dev and Software dev!*
