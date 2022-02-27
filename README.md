@@ -30,8 +30,11 @@
 ## My Github Stats
    <p align='left'>
   <img src="https://github-readme-stats.vercel.app/api?username=geosjobby&show_icons=true&count_private=true&theme=yeblu" alt="Logo" style="height: 400px; width:490px;">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geosjobby)](https://github.com/anuraghazra/github-readme-stats)
 </p>
+<p>
+ <p align='left'>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geosjobby)](https://github.com/anuraghazra/github-readme-stats)
+    </p>
 
 
 
