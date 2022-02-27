@@ -33,7 +33,7 @@
 </p>
 <p>
   <p align='left'>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geosjobby" alt="Logo" style="height: 400px; width:450px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geosjobby" alt="Logo" style="height: 300px; width:490px;">
    
  
 
