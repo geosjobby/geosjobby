@@ -38,7 +38,7 @@
     <hr width=100%>
    <p>
    <p align='left'>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=geosjobby" alt="Logo" style="height: 300px; width:300px;">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=geosjobby" alt="Logo" style="height: 400px; width:450px;">
     </p>
 
    
