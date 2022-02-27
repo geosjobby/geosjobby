@@ -29,11 +29,13 @@
     
 ## My Github Stats
    <p align='left'>
-  <img src="https://github-readme-stats.vercel.app/api?username=geosjobby&show_icons=true&count_private=true&theme=yeblu" alt="Logo" style="height: 400px; width:490px;"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=geosjobby&show_icons=true&count_private=true&theme=yeblu" alt="Logo" style="height: 400px; width:490px;"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geosjobby" alt="Logo" style="height: 400px; width:490px;">
 </p>
 <p>
   <p align='left'>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geosjobby" alt="Logo" style="height: 300px; width:490px;">
+    </p>
+
    
  
 
