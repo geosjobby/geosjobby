@@ -34,7 +34,7 @@
     </p>
     <hr width=100%>
   <p align='left'>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geosjobby" alt="Logo" style="height: 300px; width:300px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geosjobby" alt="Logo" style="height: 450px; width:475px;">
     </p>
     <hr width=100%>
    <p>
