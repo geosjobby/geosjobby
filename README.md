@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
  
 ## Activity
-   <img align="left" src="https://lanyard-profile-readme.vercel.app/api/729819683917660161?bg=#000cb8" width="200">
+   <img align="left" src="https://lanyard-profile-readme.vercel.app/api/729819683917660161?bg=#000cb8 hideBadges=true" width="200">
       
       
 ## IDE
