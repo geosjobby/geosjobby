@@ -15,11 +15,9 @@
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
  
 ## Activity
-      
    <img src="https://lanyard-profile-readme.vercel.app/api/729819683917660161?bg=#000cb8" width="500">
       
 ## IDE
- <p align='left'
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></p>
      
 ## Organisation 
