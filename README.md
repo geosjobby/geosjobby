@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
  
 ## Activity
-   [![Discord Presence](https://lanyard.cnrad.dev/api/729819683917660161)](https://discord.com/users/729819683917660161)
+   <a href ="https://discord.com/users/729819683917660161"><img align="left" src="https://lanyard-profile-readme.vercel.app/api/729819683917660161?bg=121212" width="418"></a>
  
 ## IDE
  <p align='left'>
