@@ -16,7 +16,7 @@
  
 ## Activity
    <img src="https://lanyard-profile-readme.vercel.app/api/729819683917660161?bg=#000cb8" width="450">
-   <img src="https://spotify-github-profile.vercel.app/api/view?uid=123simon4&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" align="right" width="400">
+   <img src="https://spotify-github-profile.vercel.app/api/view?uid=123simon4&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" align="left" width="400">
       
 ## IDE
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></p>
