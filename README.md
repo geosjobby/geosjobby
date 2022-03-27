@@ -33,7 +33,7 @@
     
 ## My Github Stats
    <p align='left'>
-  <img src="https://github-readme-stats.vercel.app/api?username=geosjobby&show_icons=true&count_private=true&theme=yeblu" alt="Logo" style="height: 450px; width:475px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=geosjobby&show_icons=true&count_private=true&theme=yeblu" alt="Logo" style="height: 450px; width:600px;">
     </p>
     <hr width=100%>
   <p align='left'>
