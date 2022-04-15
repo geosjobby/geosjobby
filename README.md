@@ -19,6 +19,7 @@
    <img src="https://spotify-github-profile.vercel.app/api/view?uid=0qa7mt28eteg0lpzmp49011c2&cover_image=true&theme=default&bar_color=0056c7" style="width:450px; height:400px; length:400px;">
  
 ## Current Projects
+    
     AnnoyingVirus: a Annoying Python Virus to troll your freinds with!😃
       
 ## IDE
