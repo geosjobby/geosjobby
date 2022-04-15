@@ -20,6 +20,7 @@
  
 ## Current Projects
    *AnnoyingVirus* A work in progress Python Virus that will annoy your Infected friends! *(Date: 15/04/22)*
+    <img src="https://github.com/geosjobby/geosjobby/blob/main/Pictures/AnnoyingVirus.png?raw=true" alt="AnnoyingVirus Logo" style="height: 400px; width:490px;">
       
 ## IDE
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></p>
