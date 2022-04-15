@@ -19,7 +19,7 @@
    <img src="https://spotify-github-profile.vercel.app/api/view?uid=0qa7mt28eteg0lpzmp49011c2&cover_image=true&theme=default&bar_color=0056c7" style="width:450px; height:400px; length:400px;">
  
 ## Current Projects
-    *AnnoyingVirus*:* a Annoying Python Virus to troll your freinds with!😃
+    *AnnoyingVirus*: a Annoying Python Virus to troll your freinds with!😃
       
 ## IDE
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></p>
