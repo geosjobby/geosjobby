@@ -50,7 +50,7 @@
     </p>
     <p>
         <hr width=100%>
-       <img src="https://activity-graph.herokuapp.com/graph?username=geosjobby&theme=react-dark&hide_border=true&area=true" alt="Logo">
+       <img src="https://activity-graph.herokuapp.com/graph?username=geosjobby&theme=gotham&hide_border=true&area=true" alt="Logo">
 
    
  
