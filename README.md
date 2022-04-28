@@ -49,7 +49,7 @@
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=geosjobby" alt="Logo" style="height: 450px; width:475px;">
     </p>
     <p>
-       ![Contribution]("https://activity-graph.herokuapp.com/graph?username=madushadhanushka&theme=react-dark&hide_border=true&area=true")
+       <img src="https://activity-graph.herokuapp.com/graph?username=geosjobby&theme=react-dark&hide_border=true&area=true" alt="Logo">
 
    
  
