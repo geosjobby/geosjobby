@@ -49,6 +49,7 @@
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=geosjobby" alt="Logo" style="height: 450px; width:475px;">
     </p>
     <p>
+        <hr width=100%>
        <img src="https://activity-graph.herokuapp.com/graph?username=geosjobby&theme=react-dark&hide_border=true&area=true" alt="Logo">
 
    
